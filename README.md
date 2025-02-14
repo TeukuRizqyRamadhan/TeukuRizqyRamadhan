@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Header Profil -->
+<h1 align="center">Hi there, I'm Teuku Rizqy Ramadhan 👋</h1>
 
-<!--
-**TeukuRizqyRamadhan/TeukuRizqyRamadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <br>
+  🚀 Educator | Web Developer | Tech Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=600&height=35&lines=Passionate+about+Teaching+%26+Coding;Frontend+%26+Fullstack+Web+Developer;React%2C+TypeScript%2C+Firebase;Continuous+Learning+%26+Innovation" alt="Typing SVG">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+🔹 **Educator** at SMP Cinta Kasih Tzu Chi  
+🔹 **Frontend Developer** | Passionate about **Web Development, React, TypeScript, and Firebase**  
+🔹 **Author** of **Web Development & Scratch Programming Books**  
+🔹 Focused on **Educational Technology & Coding for Young Learners**  
+🔹 Lifelong learner in **Tech, UI/UX, and Innovation**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teukurizqyramadhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teukurizqyramadhan&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,firebase,postgresql,git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+✅ **NestJS & PostgreSQL**  
+✅ **UI/UX Design Principles**  
+✅ **Advanced JavaScript Patterns**  
+✅ **Full-Stack Development (MERN & T3 Stack)**  
+
+---
+
+## 📬 Contact Me  
+
+📧 **Email**: teuku.rizqy@cintakasihtzuchi.sch.id  
+🔗 **Website**: [teukurizqyr.my.id](https://teukurizqyr.my.id)  
+💼 **LinkedIn**: [Teuku Rizqy Ramadhan](https://www.linkedin.com/in/teukurizqyr)  
+🎥 **YouTube** [Teuku Rizqy Ramadhan](https://www.youtube.com/@TeukuRizqyRamadhan) 
+
+---
+
+## 🏆 Achievements & Contributions  
+
+🏅 **Mentor & Educator** in Web Development & Programming  
+🏅 **Published Author** in Web & Scratch Programming Books  
+🏅 **Guiding students in tech competitions**  
+🏅 **Sharing knowledge through workshops & tutorials**  
+
+---
+
+## ⚡ Fun Fact  
+
+> **"The best way to predict the future is to create it." – Abraham Lincoln**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teukurizqyramadhan/teukurizqyramadhan/main/assets/coding.gif" width="400">
+</p>
+
+---
+
+## 🎯 My Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teukurizqyramadhan&theme=tokyo-night&hide_border=true" width="100%">
+</p>
