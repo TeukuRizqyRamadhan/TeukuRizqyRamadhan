@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teukurizqyramadhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=teukurizqyramadhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teukurizqyramadhan&theme=tokyonight" width="48%">
 </p>
 
@@ -64,15 +64,6 @@
 🔗 **Website**: [teukurizqyr.my.id](https://teukurizqyr.my.id)  
 💼 **LinkedIn**: [Teuku Rizqy Ramadhan](https://www.linkedin.com/in/teukurizqyr)  
 🎥 **YouTube** [Teuku Rizqy Ramadhan](https://www.youtube.com/@TeukuRizqyRamadhan)  
-
----
-
-## 🏆 Achievements & Contributions  
-
-🏅 **Mentor & Educator** in Web Development & Programming  
-🏅 **Published Author** in Web & Scratch Programming Books  
-🏅 **Guiding students in tech competitions**  
-🏅 **Sharing knowledge through workshops & tutorials**  
 
 ---
 
