@@ -54,7 +54,6 @@
 ✅ **NestJS & PostgreSQL**  
 ✅ **UI/UX Design Principles**  
 ✅ **Advanced JavaScript Patterns**  
-✅ **Full-Stack Development (MERN & T3 Stack)**  
 
 ---
 
@@ -66,11 +65,3 @@
 🎥 **YouTube** [Teuku Rizqy Ramadhan](https://www.youtube.com/@TeukuRizqyRamadhan)  
 
 ---
-
-## ⚡ Fun Fact  
-
-> **"The best way to predict the future is to create it." – Abraham Lincoln**  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/teukurizqyramadhan/teukurizqyramadhan/main/assets/coding.gif" width="400">
-</p>
