@@ -15,8 +15,7 @@
 
 ## 🚀 About Me  
 🔹 **Educator** at SMP Cinta Kasih Tzu Chi  
-🔹 **Frontend Developer** | Passionate about **Web Development, React, TypeScript, and Firebase**  
-🔹 **Author** of **Web Development & Scratch Programming Books**  
+🔹 **Frontend Developer** | Passionate about **Web Development, React, TypeScript, and Firebase**   
 🔹 Focused on **Educational Technology & Coding for Young Learners**  
 🔹 Lifelong learner in **Tech, UI/UX, and Innovation**  
 
@@ -27,6 +26,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teukurizqyramadhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teukurizqyramadhan&theme=tokyonight" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teukurizqyramadhan&theme=tokyo-night&hide_border=true" width="100%">
+</p>
+
+---
+
+## 📊 Languages Used  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teukurizqyramadhan&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
@@ -52,7 +63,7 @@
 📧 **Email**: teuku.rizqy@cintakasihtzuchi.sch.id  
 🔗 **Website**: [teukurizqyr.my.id](https://teukurizqyr.my.id)  
 💼 **LinkedIn**: [Teuku Rizqy Ramadhan](https://www.linkedin.com/in/teukurizqyr)  
-🎥 **YouTube** [Teuku Rizqy Ramadhan](https://www.youtube.com/@TeukuRizqyRamadhan) 
+🎥 **YouTube** [Teuku Rizqy Ramadhan](https://www.youtube.com/@TeukuRizqyRamadhan)  
 
 ---
 
@@ -71,12 +82,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/teukurizqyramadhan/teukurizqyramadhan/main/assets/coding.gif" width="400">
-</p>
-
----
-
-## 🎯 My Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teukurizqyramadhan&theme=tokyo-night&hide_border=true" width="100%">
 </p>
